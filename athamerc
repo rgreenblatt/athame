@@ -65,3 +65,5 @@ function! HistorySearchForward()
     call cursor(line('.') + 1, 1)
   endif
 endfunction
+
+" vim: set filetype=vim:
